@@ -1,16 +1,3 @@
-# convert_speech_to_text
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Voxify: Speech-to-Text Converter
+ 
+Voxify is your voice's conduit to the digital realm. Seamlessly convert spoken words into written text with our intuitive Speech-to-Text Converter. Whether you're transcribing meetings, dictating notes, or simply exploring hands-free communication, Voxify empowers you to effortlessly translate your spoken thoughts into actionable text. Experience the convenience of frictionless transcription and unlock new possibilities in productivity and accessibility. Let your voice be your most powerful tool with Voxify.
